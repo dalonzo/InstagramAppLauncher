@@ -5,4 +5,4 @@ InstagramAppLauncher
 
 
 
-![InstagramAppLauncher](InstagramAppLauncher/screenshot.png)
+![InstagramAppLauncher](screenshot.png)
