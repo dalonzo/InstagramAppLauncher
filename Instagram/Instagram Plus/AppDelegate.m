@@ -4,7 +4,7 @@
 //
 //  Created by Indragie Karunaratne on 1/8/14.
 //  Copyright (c) 2014 Dalonzo. All rights reserved.
-//  Instagram Plus uses the Instagram branding and is not endorsed by or affiliated with either Instagram or Facebook.
+//  InstagramAppLauncher uses the Instagram branding and is not endorsed by or affiliated with either Instagram or Facebook.
 //
 
 #import "AppDelegate.h"
